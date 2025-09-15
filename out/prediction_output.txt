@@ -1,0 +1,10 @@
+for image_0.png, This digit is probably: 0
+for image_1.png, This digit is probably: 1
+for image_2.png, This digit is probably: 2
+for image_3.png, This digit is probably: 3
+for image_4.png, This digit is probably: 4
+for image_5.png, This digit is probably: 5
+for image_6.png, This digit is probably: 5
+for image_7.png, This digit is probably: 2
+for image_8.png, This digit is probably: 3
+for image_9.png, This digit is probably: 3
